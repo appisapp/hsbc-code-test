@@ -1,2 +1,2 @@
-# hsbc-code-test
-hsbc code test
+# code-test
+code test
